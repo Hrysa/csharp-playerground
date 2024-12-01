@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Folder Name="/src/">
+    <Project Path="src\playground1\playground1.csproj" Type="Classic C#" />
+  </Folder>
+</Solution>
