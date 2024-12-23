@@ -1,5 +1,7 @@
 ﻿<Solution>
   <Folder Name="/src/">
+    <Project Path="src\exe\exe.csproj" Type="Classic C#" />
     <Project Path="src\playground1\playground1.csproj" Type="Classic C#" />
   </Folder>
+  <Project Path="src\shared\shared.csproj" Type="Classic C#" />
 </Solution>

@@ -2,7 +2,7 @@
 using System.Net;
 using System.Runtime.InteropServices;
 
-namespace playground1;
+namespace shared;
 
 public static class Helper
 {

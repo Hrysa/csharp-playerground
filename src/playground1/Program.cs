@@ -1,6 +1,8 @@
-﻿using System.Runtime.InteropServices;
+﻿using System.Net;
+using System.Net.Sockets;
+using System.Runtime.InteropServices;
 using playground1;
-
+using shared;
 
 
 var buffer = GC.AllocateUninitializedArray<A>(1024, pinned: true); // Create to pinned object heap
@@ -82,4 +84,3 @@ struct MyStruct()
 class A
 {
 }
-
